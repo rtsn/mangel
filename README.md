@@ -1,22 +1,18 @@
-# mangel
+# mangel.domain
 mangel: DIY gigs around the world - in one place
-
-
 
 
 One thing I found particularity frustrating when travelling
 no facebook and finding myself in a new city very challenging to find
 punk gigs if you don't know anyone there 
 
+hard to *ask a punk* if you see no-one around.
 
-. ask a punk if you see no-one around.
-
-mangel.info aims to be global DIY network of people submitting gigs
+mangel.domain aims to be global DIY network of people submitting gigs
 making it easier to find gigs for people everywhere around the in the
 galaxy.
 
-breaking free from the capitalist silos and walled garden facebook and
-the like
+liberate punk from the capitalist silos and walled gardens 
 
 another world is possible.
 
@@ -29,3 +25,7 @@ a term assoicated with harder music.
 ## what kind of gigs do we want here?
 
 You decide! Use your common sense.
+
+## Rules
+
+No fascism, sexism, transphobia, racsism or right-wing bullshit.
